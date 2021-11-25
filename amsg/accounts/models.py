@@ -11,3 +11,6 @@ class CustomUser(AbstractUser):
 
     class Meta:
         verbose_name_plural = 'CustomUser'
+
+
+a
